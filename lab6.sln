@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libraries", "Libraries\Libraries.csproj", "{44BCB9FB-3EF4-4416-8484-5596F6920EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixLibrary", "MatrixLibrary\MatrixLibrary.csproj", "{D227EA64-2E04-4771-AAFD-6456845A9C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44BCB9FB-3EF4-4416-8484-5596F6920EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BCB9FB-3EF4-4416-8484-5596F6920EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BCB9FB-3EF4-4416-8484-5596F6920EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BCB9FB-3EF4-4416-8484-5596F6920EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D227EA64-2E04-4771-AAFD-6456845A9C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D227EA64-2E04-4771-AAFD-6456845A9C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D227EA64-2E04-4771-AAFD-6456845A9C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D227EA64-2E04-4771-AAFD-6456845A9C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
